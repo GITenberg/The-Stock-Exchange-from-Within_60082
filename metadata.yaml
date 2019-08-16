@@ -1,0 +1,36 @@
+_repo: The-Stock-Exchange-from-Within_60082
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Antwerp, William C. (William Clarkson)
+    aliases:
+    - Antwerp, William C. Van (William Clarkson)
+    - Antwerp, William Clarkson Van
+    - Antwerp, W. C. Van
+    birthdate: 1867
+    deathdate: 1938
+    gutenberg_agent_id: '50780'
+    url: http://www.gutenberg.org/2009/agents/50780
+description: ''
+gutenberg_issued: '2019-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York Stock Exchange'
+- !lcsh 'Stock exchanges'
+- !lcc 'HG'
+- GITenberg
+tableOfContents: 'The functions of the Stock Exchange -- The uses and abuses of speculation
+  -- The bear and short selling -- The relationship between the banks and the Stock
+  Exchange -- Publicity in exchange affairs; cautions and precautions -- Panics, and
+  the crisis of 1907 -- A brief history of legislative attempts to restrain or suppress
+  speculation -- The day on ''Change, with suggestions for beginners -- The London
+  Stock Exchange, and comparisons with its New York prototype -- The Paris Bourse;
+  a monopoly under government -- Appendix: the report of the Hughes Commission.'
+title: The Stock Exchange from Within
+url: http://www.gutenberg.org/ebooks/60082
